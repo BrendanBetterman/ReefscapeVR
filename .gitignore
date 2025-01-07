@@ -1,4 +1,7 @@
 Library/*
+Logs/*
+Temp/*
+UserSettings/*
 .vs/
 .vsconfig
 .utmp/
